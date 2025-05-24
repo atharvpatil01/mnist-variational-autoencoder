@@ -10,9 +10,6 @@ This project implements a Variational Autoencoder (VAE) in PyTorch, trained on t
 - Reconstruct any uploaded digit image (resized to 28x28).
 - Interactive web demo using Gradio.
 
-## Try it out!
-- [Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/your-username/vae-mnist-demo) (if deployed)
-- [GitHub Repository](https://github.com/your-username/vae-mnist-demo)
 
 ## How it works
 - The VAE learns a compressed latent representation of MNIST digits.
@@ -21,6 +18,4 @@ This project implements a Variational Autoencoder (VAE) in PyTorch, trained on t
 ## Technologies
 - PyTorch, Gradio, torchvision, matplotlib, PIL
 
-## Screenshots
-![Generated Digits](screenshots/generated.png)
-![Reconstructed Digits](screenshots/reconstructed.png)
+
